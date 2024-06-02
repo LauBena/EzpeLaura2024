@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EzpeLaura2024.props" />
+</Project>
