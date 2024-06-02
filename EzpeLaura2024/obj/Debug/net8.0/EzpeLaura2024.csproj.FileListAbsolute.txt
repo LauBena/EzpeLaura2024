@@ -286,3 +286,4 @@ C:\Users\laura\EzpeLaura2024\EzpeLaura2024\obj\Debug\net8.0\refint\EzpeLaura2024
 C:\Users\laura\EzpeLaura2024\EzpeLaura2024\obj\Debug\net8.0\EzpeLaura2024.pdb
 C:\Users\laura\EzpeLaura2024\EzpeLaura2024\obj\Debug\net8.0\EzpeLaura2024.genruntimeconfig.cache
 C:\Users\laura\EzpeLaura2024\EzpeLaura2024\obj\Debug\net8.0\ref\EzpeLaura2024.dll
+C:\Users\laura\EzpeLaura2024\EzpeLaura2024\obj\Debug\net8.0\EzpeLaura2024.sourcelink.json
