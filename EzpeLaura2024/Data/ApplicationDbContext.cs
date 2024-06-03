@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+﻿using EzpeLaura2024.Models;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace EzpeLaura2024.Data;
@@ -10,5 +11,6 @@ public class ApplicationDbContext : IdentityDbContext
     {
     }
 
-    //public DbSet<TipoEjercicio> TipoEjercicios { get; set; }
+    public DbSet<TipoEjercicio> TipoEjercicios { get; set; }
+    public DbSet<EjercicioFisico> EjercicioFisicos { get; set; }
 }
