@@ -113,7 +113,7 @@ public class TipoEjerciciosController : Controller
         bool eliminado = false;
 
         //BUSCO SI EXISTEN EJERCICIOS CARGADOS
-        var existeEjercicio = _context.EjercicioFisicos.Where(t => t.TipoEjercicioID == tipoEjercicioID).Count();
+        var existeEjercicio = _context.EjerciciosFisicos.Where(t => t.TipoEjercicioID == tipoEjercicioID).Count();
         if (existeEjercicio == 0)
         {
             var tipoEjercicio = _context.TipoEjercicios.Find(tipoEjercicioID);
