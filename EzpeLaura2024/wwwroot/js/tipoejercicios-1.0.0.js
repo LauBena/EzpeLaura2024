@@ -85,7 +85,7 @@ function AbrirModalEditar(tipoEjercicioID) {
             document.getElementById("TipoEjercicioID").value = tipoEjercicioID;
             $("#ModalTitulo").text("Editar Tipo de Ejercicio");
             document.getElementById("descripcion").value = tipoDeEjercicio.descripcion;
-            $("#ModalTitulo").modal("show");
+            $("#ModalTipoEjercicio").modal("show");
         },
 
         //CODIGO A EJECUTAR SI LA PETICION FALLA

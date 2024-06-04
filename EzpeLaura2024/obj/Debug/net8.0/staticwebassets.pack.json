@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
+      "Id": "C:\\Users\\laura\\EzpeLaura2024\\EzpeLaura2024\\wwwroot\\js\\tipoejercicios-1.0.0.js",
+      "PackagePath": "staticwebassets\\js\\tipoejercicios-1.0.0.js"
+    },
+    {
       "Id": "C:\\Users\\laura\\EzpeLaura2024\\EzpeLaura2024\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },

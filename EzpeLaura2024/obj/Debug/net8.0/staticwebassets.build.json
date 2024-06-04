@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9W0HDCUYWcFKO30g75gJUqGDuO3vlNcpRZgMAvV17Oc=",
+  "Hash": "fcvrR7zA+26jihIOLQ3GW1WPKqL53rcrt0mY2YxAUfY=",
   "Source": "EzpeLaura2024",
   "BasePath": "_content/EzpeLaura2024",
   "Mode": "Default",
@@ -1250,6 +1250,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "C:\\Users\\laura\\EzpeLaura2024\\EzpeLaura2024\\wwwroot\\js\\tipoejercicios-1.0.0.js",
+      "SourceId": "EzpeLaura2024",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\laura\\EzpeLaura2024\\EzpeLaura2024\\wwwroot\\",
+      "BasePath": "_content/EzpeLaura2024",
+      "RelativePath": "js/tipoejercicios-1.0.0.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\tipoejercicios-1.0.0.js"
     },
     {
       "Identity": "C:\\Users\\laura\\EzpeLaura2024\\EzpeLaura2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
