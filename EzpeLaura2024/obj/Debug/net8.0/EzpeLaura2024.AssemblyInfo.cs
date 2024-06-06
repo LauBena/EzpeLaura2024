@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EzpeLaura2024")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6546750f311739203ca7043747cbefde214ae378")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03eeae57e8b8d7bdb5a2664126562cf9f6675f4e")]
 [assembly: System.Reflection.AssemblyProductAttribute("EzpeLaura2024")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EzpeLaura2024")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
